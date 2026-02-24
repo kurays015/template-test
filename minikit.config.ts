@@ -11,7 +11,7 @@ export const minikitConfig = {
     name: "My Base Mini-App",
     subtitle: "A Base Mini-App",
     description: "Built with Base Builder",
-    screenshotUrls: [],
+    screenshotUrls: ["https://template-test-chi-five.vercel.app//image.png"],
     iconUrl: "https://template-test-chi-five.vercel.app/image.png",
     splashImageUrl: "https://template-test-chi-five.vercel.app/image.png",
     splashBackgroundColor: "#000000",
@@ -20,9 +20,11 @@ export const minikitConfig = {
     primaryCategory: "social",
     tags: ["base", "miniapp"],
     heroImageUrl: "https://template-test-chi-five.vercel.app/image.png",
-    tagline: "",
+    tagline: "Save instantly",
     ogTitle: "My Base Mini-App",
     ogDescription: "Built with Base Builder",
     ogImageUrl: "https://template-test-chi-five.vercel.app/image.png",
+    "noindex": true
+
   },
 } as const;
