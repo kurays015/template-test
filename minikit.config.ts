@@ -1,29 +1,29 @@
-const ROOT_URL = "https://www.youtube.com/watch?v=_k22WAEAfpE";
+const ROOT_URL = "https://asdad.com";
 
 export const minikitConfig = {
   accountAssociation: {
-    header: "asd",
-    payload: "adad",
-    signature: "adad",
+    header: "aws",
+    payload: "adasd",
+    signature: "ad",
   },
   miniapp: {
     version: "1",
     name: "My Base Mini-App",
     subtitle: "A Base Mini-App",
     description: "Built with Base Builder",
-    screenshotUrls: ["https://www.youtube.com/watch?v=_k22WAEAfpE/image.png"],
-    iconUrl: "https://www.youtube.com/watch?v=_k22WAEAfpE/image.png",
-    splashImageUrl: "https://www.youtube.com/watch?v=_k22WAEAfpE/image.png",
+    screenshotUrls: ["https://asdad.com/image.png"],
+    iconUrl: "https://asdad.com/image.png",
+    splashImageUrl: "https://asdad.com/image.png",
     splashBackgroundColor: "#000000",
     homeUrl: ROOT_URL,
-    webhookUrl: "https://www.youtube.com/watch?v=_k22WAEAfpE/api/webhook",
+    webhookUrl: "https://asdad.com/api/webhook",
     primaryCategory: "social",
     tags: ["base", "miniapp"],
-    heroImageUrl: "https://www.youtube.com/watch?v=_k22WAEAfpE/image.png",
-    tagline: "asdasda",
+    heroImageUrl: "https://asdad.com/image.png",
+    tagline: "asd",
     ogTitle: "My Base Mini-App",
     ogDescription: "Built with Base Builder",
-    ogImageUrl: "https://www.youtube.com/watch?v=_k22WAEAfpE/image.png",
+    ogImageUrl: "https://asdad.com/image.png",
     "noindex": true
 
   },
