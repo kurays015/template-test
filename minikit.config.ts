@@ -20,7 +20,7 @@ export const minikitConfig = {
     primaryCategory: "social",
     tags: ["base", "miniapp"],
     heroImageUrl: "https://asdad.com/image.png",
-    tagline: "asd",
+    tagline: "asdasd",
     ogTitle: "My Base Mini-App",
     ogDescription: "Built with Base Builder",
     ogImageUrl: "https://asdad.com/image.png",
